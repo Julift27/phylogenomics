@@ -1,5 +1,7 @@
 # Phylogenomics
 
+Durante la clase de filogenómica lo que hicimos fue construir la filogenia de algunas especies de vertebrados desde un enfoque coalescente y concatenado. Lo primero que realizamos fue encontrar regiones ortólogas entre las proteínas de las especies evaluadas para obtener las secuencias de los "Orthogroups", los cuáles nos agrupan los genes ortologos. Debido a que los datos de secuenciación pueden tener varios errores se hizo un filtraje de calidad de las secuencias. Después de esto realizamos un alineamiento múltiple con el fin de poder identificar nucleótidos o aminoácidos homólogos y poderlos comparar. 
+
 ## Partitioned tree
 ![Caos](https://github.com/Julift27/phylogenomics/blob/4f467a35c4ba4f6ebae7b24f4b73fa4cf6cf9121/partitioned.jpg)
 
