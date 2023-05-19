@@ -6,7 +6,7 @@ Durante la clase de filogenómica lo que hicimos fue construir la filogenia de a
 ![Caos](https://github.com/Julift27/phylogenomics/blob/af0796f48e6305f00443b2105257f730dc81b743/partitioned.treefile_page-0001.jpg)
 
 ## Unpartitioned tree
-![Caos]()
+![Caos](https://github.com/Julift27/phylogenomics/blob/ddf537596f17be1efac7645b769651a732bb04d9/unpartitioned.treefile_page-0001%20(1).jpg)
 
 ## Coalescence tree
 ![Caos]()
